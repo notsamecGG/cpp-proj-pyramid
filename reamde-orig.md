@@ -1,4 +1,4 @@
-# 3 Levels of C++ Portfolio Projects
+# 3 Levels of Portfolio Projects
 
 This is a compilation of the three different types of portfolio projects you can create. The explanation for the different types are contained in [this](https://youtu.be/RYE0QQKJI9o) YouTube video.
 
@@ -9,6 +9,9 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 ## Level 1: Basic
 
 ### Examples:
+- Static website
+    - Personal Website
+    - Website for Local Business (Real or Create a Fake Business)
 - Digital Clock
 - Todo App
 - Expense Tracker
@@ -36,8 +39,9 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 ## Level 3: Capstone
 
 ### Examples
-- Chat app
+- Facebook Clone
 - Twitter Clone
+- LinkedIn Clone
 - Instagram Clone
 - Online Forum
 - "Fake" E-Commerce Store
@@ -46,7 +50,6 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - WYSIWG (What you see is what you get) Editor
 
 ## Projects Idea References
-This is only altered copy of [this](https://github.com/andysterks/three-levels-of-projects.git) repo
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
 - [40 Side Project Ideas for Software Engineers](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef?utm_source=pocket_mylist) from codementor.io
