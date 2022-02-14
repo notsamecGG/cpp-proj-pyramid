@@ -1,4 +1,4 @@
-# 3 Levels of C++ Portfolio Projects
+# 3 Levels of C++ Projects
 
 This is a compilation of the three different types of portfolio projects you can create. The explanation for the different types are contained in [this](https://youtu.be/RYE0QQKJI9o) YouTube video.
 
