@@ -28,7 +28,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Tetris Game
 - Pong Game
 - Calculator
-- Web Scraper
+//- Web Scraper
 - Flash Card App
 - Address Book (Contact Manager)
 
