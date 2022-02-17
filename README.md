@@ -13,7 +13,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Todo App
 - Expense Tracker
 - Vowel Counter
-//- Pig Latin Generator
+<!-- - Pig Latin Generator -->
 - Weight Tracker App
 - Recipes App
 - Rock, Paper, Scissors Game
@@ -29,7 +29,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Tetris Game
 - Pong Game - with some kind of window app 
 - Calculator
-//- Web Scraper
+<!-- - Web Scraper -->
 - Flash Card App
 - Address Book (Contact Manager)
 
