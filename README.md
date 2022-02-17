@@ -13,10 +13,11 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Todo App
 - Expense Tracker
 - Vowel Counter
-- Pig Latin Generator
+//- Pig Latin Generator
 - Weight Tracker App
 - Recipes App
 - Rock, Paper, Scissors Game
+- Pong Game in terminal
 - [Note Taking App](https://andysterks.github.io/note-taking-app/)
 
 
@@ -26,7 +27,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Space Invaders Game
 - Snake Game
 - Tetris Game
-- Pong Game
+- Pong Game - with some kind of window app 
 - Calculator
 //- Web Scraper
 - Flash Card App
